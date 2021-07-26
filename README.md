@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning software project management.
 - 💞️ I’m looking to collaborate on software design, development, deployment, and maintenance.
 - 📫 How to reach me rioeffendi at gmail.com
+- 🤓 DevOps is something that I'm keen to learn
 
 <!---
 rioeffendi/rioeffendi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
